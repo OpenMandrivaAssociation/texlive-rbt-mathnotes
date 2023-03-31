@@ -1,6 +1,6 @@
 Name:		texlive-rbt-mathnotes
 Version:	61193
-Release:	1
+Release:	2
 Summary:	Rebecca Turner's personal macros and styles for typesetting mathematics notes
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rbt-mathnotes
