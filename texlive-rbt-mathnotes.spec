@@ -3,7 +3,7 @@ Version:	61193
 Release:	2
 Summary:	Rebecca Turner's personal macros and styles for typesetting mathematics notes
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/rbt-mathnotes
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/rbt-mathnotes
 License:	lppl1.3c
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rbt-mathnotes.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/rbt-mathnotes.doc.r%{version}.tar.xz
